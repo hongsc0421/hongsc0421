@@ -46,7 +46,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hongsc0421@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <!-- <a href="https://velog.io/@sieuneee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> -->
-  <a href="https://www.instagram.com/oror_0421" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/oror_0421/" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <!-- <br /> -->
 <!-- <br /> -->
