@@ -1,16 +1,63 @@
-### Hi there 👋
+<div>
+<h1>Seokchan Hong</h1>
+<h4>Hi there 👋 <br/> I'm a Backend Developer with Java, Spring. </h4>
 
-<!--
-**hongsc0421/hongsc0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongsc0421&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+<hr />
+  <!--
+  <h3>👩🏻‍💻 Work Experience</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kakao Enterprise</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.11 ~
+  -->
+ 
+  
+  <h3>👩🏻‍🎓 Education</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Sogang Univ.</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science & Engineering<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018. 03 - 2024. 02
+  
+<hr />
+  
+  <h3>💻 Tech Stack </h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white"/> -->
+ <!-- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white"/> -->
+<!--  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>-->
+ <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.JS&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<!--   <br /> -->
+<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+  <h3>📩 Contact </h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hongsc0421@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <!-- <a href="https://velog.io/@sieuneee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/oror_0421" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+<!-- <br /> -->
+<!-- <br /> -->
+<!--   <h3>👩‍💻 Collaboration </h3> -->
+<!--   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> -->
+
+<hr />
+<br />
+
+
+![hongsc0421's github stats](https://github-readme-stats.vercel.app/api?username=hongsc0421&show_icons=true)
+
+</div>
